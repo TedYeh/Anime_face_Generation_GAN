@@ -1,6 +1,6 @@
 # Anime_face_Generation_GAN
  NTU meachine learning HW11
  
- 使用WGAN-GP實作
+ 使用EBGAN實作
  
-![image](./WGAN-GP_image.gif)
+![image](./EBGAN_image.gif)
